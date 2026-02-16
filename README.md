@@ -1,6 +1,6 @@
 # Hi, I'm Omoshola 👋
 
-**Vienna × London — Supply chain engineer by day, payment infrastructure builder by night.**
+**Analytics engineer by day, payment infrastructure builder by night.**
 
 Deep in enterprise systems, AI research, and fintech infrastructure. Currently a **Supply Chain Planning Specialist at IBM** and founder of **ZexRail** — payment infrastructure for Nigeria. I build things that are architecturally precise, auditable, and production-grade.
 
