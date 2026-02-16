@@ -2,7 +2,7 @@
 
 **Analytics engineer by day, payment infrastructure builder by night.**
 
-Deep in enterprise systems, AI research, and fintech infrastructure. Currently a **Supply Chain Planning Specialist at IBM** and founder of **ZexRail** — payment infrastructure for Nigeria. I build things that are architecturally precise, auditable, and production-grade.
+Deep in enterprise systems, AI research, and fintech infrastructure. Currently a **Analytics Engineer at IBM** and founder of **ZexRail** — payment infrastructure for Nigeria. I build things that are architecturally precise, auditable, and production-grade.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -42,14 +42,6 @@ Deep in enterprise systems, AI research, and fintech infrastructure. Currently a
 - 🔗 **[Supply Chain Analysis](https://github.com/omoshola-o/Supply-Chain-Analysis)** — Supply chain data exploration
 - 📦 **[Supply Chain](https://github.com/omoshola-o/supply-chain)** — Supply chain modeling and optimization
 - 🏗️ **[Open Credit](https://github.com/omoshola-o/Open-Credit-)** — Open credit infrastructure
-
----
-
-### Professional Highlights (IBM)
-
-- RapidResponse workbook implementations: Order Cost Validation, Last-Time-Buy Analysis, BOM Analysis
-- Supply chain analytics and inventory optimization
-- Cognos Analytics & Framework Manager configurations
 
 ---
 
