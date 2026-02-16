@@ -18,50 +18,30 @@ Deep in enterprise systems, AI research, and fintech infrastructure. Currently a
 
 ### Current Projects
 
-💳 **ZexRail** — Payment infrastructure for Nigeria. A "truth ledger" that orchestrates payments across banks, mobile money, and cards with institutional-grade reliability
-- Sub-surfaces: ZexPay UI (merchant), Control Plane UI (ops), ZexRail Authority UI (regulatory)
-
-🛡️ **AgentLedger** — Open-source trust & audit layer for OpenClaw agents. Cryptographic provenance, execution logging, and compliance hooks
-
-🎬 **EryonPaid** — Automated video content generation pipeline powered by AI
-
-🌍 **[ZelixPay](https://github.com/omoshola-o/ZelixPay)** — Cross-border funds transfer infrastructure
-
-😌 **mayamoods** — Mood tracking and emotional wellness platform
-
----
+- 💳 **ZexRail** — Payment infrastructure for Nigeria with institutional-grade reliability
+- 🛡️ **AgentLedger** — Trust & audit layer for OpenClaw agents
+- 🎬 **EryonPaid** — AI-powered automated video content generation
+- 🌍 **[ZelixPay](https://github.com/omoshola-o/ZelixPay)** — Cross-border funds transfer infrastructure
+- 😌 **mayamoods** — Mood tracking and emotional wellness platform
 
 ### Research & Explainable AI
 
-🔬 **[Explainable Credit Intelligence](https://github.com/omoshola-o/explainable-credit-intelligence)** — Unified SHAP-based framework for interpretable risk scoring across corporate and retail lending domains (CrossSHAP methodology)
-
-🌐 **[Network Analysis — Supply Chain](https://github.com/omoshola-o/network_analysis_supply_chain)** — Network analysis for systemic risk assessment in supply chains
-
-🏦 **[Credit Risk Creditum](https://github.com/omoshola-o/credit-risk-creditum)** — Credit risk modeling and analysis platform
-
-📊 **[RiskX](https://github.com/omoshola-o/riskx)** — Risk analytics engine
-
-📄 **IEEE Academic Reviewer** — Peer reviewer for ICAD 2025 across AI, cybersecurity, ML, and computer vision
-
-📐 **IEEE Standards Development** — Technical ballot comments for cloud-edge collaboration protocols
-
----
+- 🔬 **[Explainable Credit Intelligence](https://github.com/omoshola-o/explainable-credit-intelligence)** — SHAP-based interpretable risk scoring (CrossSHAP methodology)
+- 🌐 **[Network Analysis — Supply Chain](https://github.com/omoshola-o/network_analysis_supply_chain)** — Systemic risk assessment in supply chains
+- 🏦 **[Credit Risk Creditum](https://github.com/omoshola-o/credit-risk-creditum)** — Credit risk modeling and analysis
+- 📊 **[RiskX](https://github.com/omoshola-o/riskx)** — Risk analytics engine
+- 📄 **IEEE Academic Reviewer** — Peer reviewer for ICAD 2025
+- 📐 **IEEE Standards Development** — Cloud-edge collaboration protocols
 
 ### Analytics & Data Science
 
-📉 **[Credit Risk Assessment](https://github.com/omoshola-o/Credit-Risk_Risk)** — Credit risk modeling and evaluation
-
-💳 **[Credit Card Issuer Market Share Analysis](https://github.com/omoshola-o/Credit-Card-Issuer-Market-Share-Analysis)** — Market share analysis in the educational sector
-
-👥 **[Customer Segmentation (RFM)](https://github.com/omoshola-o/Customer-Segmentation-using-RFM-Analysis--Python-)** — Customer segmentation using RFM analysis
-
-📞 **[Customer Churn Prediction](https://github.com/omoshola-o/Customer-Churn-Prediction)** — Predicting customer churn with ML
-
-🔗 **[Supply Chain Analysis](https://github.com/omoshola-o/Supply-Chain-Analysis)** — Supply chain data exploration and analytics
-
-📦 **[Supply Chain](https://github.com/omoshola-o/supply-chain)** — Supply chain modeling and optimization
-
-🏗️ **[Open Credit](https://github.com/omoshola-o/Open-Credit-)** — Open credit infrastructure
+- 📉 **[Credit Risk Assessment](https://github.com/omoshola-o/Credit-Risk_Risk)** — Credit risk modeling and evaluation
+- 💳 **[Credit Card Issuer Market Share](https://github.com/omoshola-o/Credit-Card-Issuer-Market-Share-Analysis)** — Market share analysis in education
+- 👥 **[Customer Segmentation](https://github.com/omoshola-o/Customer-Segmentation-using-RFM-Analysis--Python-)** — RFM-based customer segmentation
+- 📞 **[Customer Churn Prediction](https://github.com/omoshola-o/Customer-Churn-Prediction)** — ML-based churn prediction
+- 🔗 **[Supply Chain Analysis](https://github.com/omoshola-o/Supply-Chain-Analysis)** — Supply chain data exploration
+- 📦 **[Supply Chain](https://github.com/omoshola-o/supply-chain)** — Supply chain modeling and optimization
+- 🏗️ **[Open Credit](https://github.com/omoshola-o/Open-Credit-)** — Open credit infrastructure
 
 ---
 
