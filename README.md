@@ -4,6 +4,8 @@
 
 I work at the intersection of agentic systems, financial AI, and regulatory governance — where the gap between what AI can do and what institutions can trust is still wide open. I build things that are architecturally precise, auditable, and honest about what they do not know.
 
+**→ [omoshola.me](https://omoshola.me)**
+
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
