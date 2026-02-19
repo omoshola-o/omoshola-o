@@ -19,7 +19,7 @@ I work at the intersection of agentic systems, financial AI, and regulatory gove
 
 - 🦀 **Nexus** — Supply chain intelligence platform in Rust. Treats demand, lead times, and supplier reliability as probability distributions. Monte Carlo simulation, temporal graph kernel, agentic recommendations a procurement team can audit.
 - 💳 **FyxCred** — Credit intelligence built on behavioral cashflow data, not bureau scores. Three scores — financial health, income stability, financial resilience — with a consent-first data layer and bias transparency framework.
-- 🕸️ **[Cortex](https://github.com/agentic-revolution/cortex)** — Web cartography for AI agents. Maps entire sites into navigable binary graphs in seconds. Ships with WQL (a query language for websites), LangChain/CrewAI/AutoGen/MCP integrations.
+- 🕸️ **[Cortex](https://github.com/agentic-revolution/agentic-vision)** — Web cartography for AI agents. Maps entire sites into navigable binary graphs in seconds. Ships with WQL (a query language for websites), LangChain/CrewAI/AutoGen/MCP integrations.
 - 🧠 **[AgenticMemory](https://github.com/agentic-revolution/agentic-memory)** — Persistent memory for AI agents. A binary graph format that stores facts, decisions, corrections, and reasoning chains with semantic edge types. 440+ tests, dual Python/Rust distributions, peer-reviewed research paper.
 
 ### Research & Explainable AI
