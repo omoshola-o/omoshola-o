@@ -1,28 +1,26 @@
 # Hi, I'm Omoshola 👋
 
-**Analytics engineer by day, payment infrastructure builder by night.**
+**Building AI agents and the infrastructure they run on.**
 
-Deep in enterprise systems, AI research, and fintech infrastructure. Currently a **Analytics Engineer at IBM** and founder of **ZexRail** — payment infrastructure for Nigeria. I build things that are architecturally precise, auditable, and production-grade.
+I work at the intersection of agentic systems, financial AI, and regulatory governance — where the gap between what AI can do and what institutions can trust is still wide open. I build things that are architecturally precise, auditable, and honest about what they do not know.
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### Current Projects
 
-- 💳 **ZexRail** — Payment infrastructure for Nigeria with institutional-grade reliability
-- 🛡️ **AgentLedger** — Trust & audit layer for OpenClaw agents
-- 🎬 **EryonPaid** — AI-powered automated video content generation
-- 🌍 **[ZelixPay](https://github.com/omoshola-o/ZelixPay)** — Cross-border funds transfer infrastructure
-- 😌 **mayamoods** — Mood tracking and emotional wellness platform
+- 🦀 **Nexus** — Supply chain intelligence platform in Rust. Treats demand, lead times, and supplier reliability as probability distributions. Monte Carlo simulation, temporal graph kernel, agentic recommendations a procurement team can audit.
+- 💳 **FyxCred** — Credit intelligence built on behavioral cashflow data, not bureau scores. Three scores — financial health, income stability, financial resilience — with a consent-first data layer and bias transparency framework.
+- 🕸️ **[Cortex](https://github.com/agentic-revolution/cortex)** — Web cartography for AI agents. Maps entire sites into navigable binary graphs in seconds. Ships with WQL (a query language for websites), LangChain/CrewAI/AutoGen/MCP integrations.
+- 🧠 **[AgenticMemory](https://github.com/agentic-revolution/agentic-memory)** — Persistent memory for AI agents. A binary graph format that stores facts, decisions, corrections, and reasoning chains with semantic edge types. 440+ tests, dual Python/Rust distributions, peer-reviewed research paper.
 
 ### Research & Explainable AI
 
@@ -31,34 +29,26 @@ Deep in enterprise systems, AI research, and fintech infrastructure. Currently a
 - 🏦 **[Credit Risk Creditum](https://github.com/omoshola-o/credit-risk-creditum)** — Credit risk modeling and analysis
 - 📊 **[RiskX](https://github.com/omoshola-o/riskx)** — Risk analytics engine
 - 📄 **IEEE Academic Reviewer** — Peer reviewer for ICAD 2025
-- 📐 **IEEE Standards Development** — Cloud-edge collaboration protocols
-
-### Analytics & Data Science
-
-- 📉 **[Credit Risk Assessment](https://github.com/omoshola-o/Credit-Risk_Risk)** — Credit risk modeling and evaluation
-- 💳 **[Credit Card Issuer Market Share](https://github.com/omoshola-o/Credit-Card-Issuer-Market-Share-Analysis)** — Market share analysis in education
-- 👥 **[Customer Segmentation](https://github.com/omoshola-o/Customer-Segmentation-using-RFM-Analysis--Python-)** — RFM-based customer segmentation
-- 📞 **[Customer Churn Prediction](https://github.com/omoshola-o/Customer-Churn-Prediction)** — ML-based churn prediction
-- 🔗 **[Supply Chain Analysis](https://github.com/omoshola-o/Supply-Chain-Analysis)** — Supply chain data exploration
-- 📦 **[Supply Chain](https://github.com/omoshola-o/supply-chain)** — Supply chain modeling and optimization
-- 🏗️ **[Open Credit](https://github.com/omoshola-o/Open-Credit-)** — Open credit infrastructure
+- 📐 **IEEE Standards Development** — AI ethics, cybersecurity, financial LLM requirements, supply chain security
 
 ---
 
 ### What I'm Doing
 
-🔧 Building production-grade payment infrastructure for African markets
-🔬 Researching explainable AI methods that outperform existing benchmarks
-📝 Reviewing cutting-edge AI and cybersecurity research for IEEE
-🤖 Exploring agentic AI systems with trust and auditability built-in
+🦀 Building Nexus — a full supply chain OS in Rust with probabilistic planning and agentic recommendations
+💳 Speccing and starting FyxCred — cashflow-based credit intelligence for the credit invisible
+🕸️ Shipping Cortex — web cartography infrastructure for AI agents
+🧠 Releasing AgenticMemory v0.2 — persistent, auditable memory for agents across any LLM
+📝 Reviewing AI and cybersecurity research for IEEE
 
 ---
 
 ### What I'm Thinking About
 
-- How payment rails in emerging markets can be rebuilt from first principles
-- Trust and audit layers for autonomous AI agents
-- The gap between enterprise supply chain tools and modern engineering practices
+- What it actually means for an AI agent to be trustworthy over time — not just at launch
+- How credit scoring can work for people the formal system has historically excluded
+- The memory and reasoning infrastructure agents need before they can operate in regulated environments
+- African knowledge systems and their relationship to computation and intelligence
 
 ---
 
@@ -76,6 +66,7 @@ Deep in enterprise systems, AI research, and fintech infrastructure. Currently a
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![Website](https://img.shields.io/badge/omoshola.me-000000?style=flat-square&logo=astro&logoColor=white)](https://omoshola.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omosholaowolabi)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/HowolarbyM)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:owolabi.omoshola@outlook.com)
