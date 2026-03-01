@@ -1,72 +1,57 @@
-# Hi, I'm Omoshola 👋
+# Omoshola Owolabi
 
-**Building AI agents and the infrastructure they run on.**
+AI/ML researcher and systems builder focused on trusted agent infrastructure, financial intelligence, and governance-ready AI.
 
-I work at the intersection of agentic systems, financial AI, and regulatory governance — where the gap between what AI can do and what institutions can trust is still wide open. I build things that are architecturally precise, auditable, and honest about what they do not know.
-
-**→ [omoshola.me](https://omoshola.me)**
+[Website](https://omoshola.me) • [Agentra Labs](https://agentralabs.tech) • [LinkedIn](https://linkedin.com/in/omosholaowolabi) • [X](https://x.com/HowolarbyM)
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
+## Building Now
 
-### Current Projects
+- **Nexus**: Rust-native supply chain intelligence with probabilistic planning and auditable agent recommendations.
+- **FyxCred**: Cashflow-first credit intelligence with transparent scoring and bias visibility.
+- **Cortex**: Web cartography for agents that converts websites into queryable graph structure.
+- **Agentra Labs stack**: Production-grade agent systems for memory, vision, code, identity, time, policy, and communication.
 
-- 🦀 **Nexus** — Supply chain intelligence platform in Rust. Treats demand, lead times, and supplier reliability as probability distributions. Monte Carlo simulation, temporal graph kernel, agentic recommendations a procurement team can audit.
-- 💳 **FyxCred** — Credit intelligence built on behavioral cashflow data, not bureau scores. Three scores — financial health, income stability, financial resilience — with a consent-first data layer and bias transparency framework.
-- 🕸️ **[Cortex](https://github.com/agentic-revolution/agentic-vision)** — Web cartography for AI agents. Maps entire sites into navigable binary graphs in seconds. Ships with WQL (a query language for websites), LangChain/CrewAI/AutoGen/MCP integrations.
-- 🧠 **[AgenticMemory](https://github.com/agentic-revolution/agentic-memory)** — Persistent memory for AI agents. A binary graph format that stores facts, decisions, corrections, and reasoning chains with semantic edge types. 440+ tests, dual Python/Rust distributions, peer-reviewed research paper.
+## Agentra Sisters
 
-### Research & Explainable AI
+| Sister | Artifact | Focus |
+| --- | --- | --- |
+| [AgenticMemory](https://github.com/agentralabs/agentic-memory) | `.amem` | Persistent cognitive memory graph for facts, decisions, and corrections |
+| [AgenticVision](https://github.com/agentralabs/agentic-vision) | `.avis` | Visual memory, semantic retrieval, and visual reasoning |
+| [AgenticCodebase](https://github.com/agentralabs/agentic-codebase) | `.acb` | Code intelligence, architecture understanding, and impact analysis |
+| [AgenticIdentity](https://github.com/agentralabs/agentic-identity) | `.aid` | Cryptographic identity, trust, delegation, and receipts |
+| [AgenticTime](https://github.com/agentralabs/agentic-time) | `.atime` | Scheduling, temporal context, deadlines, and decay models |
+| [AgenticContract](https://github.com/agentralabs/agentic-contract) | `.acon` | Policy enforcement, obligations, approvals, and governance |
+| [AgenticComm](https://github.com/agentralabs/agentic-comm) | `.acomm` | Structured agent communication, channels, and coordination |
 
-- 🔬 **[Explainable Credit Intelligence](https://github.com/omoshola-o/explainable-credit-intelligence)** — SHAP-based interpretable risk scoring (CrossSHAP methodology)
-- 🌐 **[Network Analysis — Supply Chain](https://github.com/omoshola-o/network_analysis_supply_chain)** — Systemic risk assessment in supply chains
-- 🏦 **[Credit Risk Creditum](https://github.com/omoshola-o/credit-risk-creditum)** — Credit risk modeling and analysis
-- 📊 **[RiskX](https://github.com/omoshola-o/riskx)** — Risk analytics engine
-- 📄 **IEEE Academic Reviewer** — Peer reviewer for ICAD 2025
-- 📐 **IEEE Standards Development** — AI ethics, cybersecurity, financial LLM requirements, supply chain security
+## Selected Repositories
 
----
+- [explainable-credit-intelligence](https://github.com/omoshola-o/explainable-credit-intelligence): Interpretable risk scoring workflows.
+- [network_analysis_supply_chain](https://github.com/omoshola-o/network_analysis_supply_chain): Supply chain systemic risk analysis.
+- [credit-risk-creditum](https://github.com/omoshola-o/credit-risk-creditum): Credit risk modeling experiments.
+- [riskx](https://github.com/omoshola-o/riskx): Risk analytics tooling.
 
-### What I'm Doing
+## Research and Standards
 
-🦀 Building Nexus — a full supply chain OS in Rust with probabilistic planning and agentic recommendations
-💳 Speccing and starting FyxCred — cashflow-based credit intelligence for the credit invisible
-🕸️ Shipping Cortex — web cartography infrastructure for AI agents
-🧠 Releasing AgenticMemory v0.2 — persistent, auditable memory for agents across any LLM
-📝 Reviewing AI and cybersecurity research for IEEE
+- IEEE paper reviewer and contributor to standards work across AI ethics, cybersecurity, financial LLM requirements, and supply chain security.
+- Focused on making AI systems auditable, correctable, and robust in regulated environments.
 
----
-
-### What I'm Thinking About
-
-- What it actually means for an AI agent to be trustworthy over time — not just at launch
-- How credit scoring can work for people the formal system has historically excluded
-- The memory and reasoning infrastructure agents need before they can operate in regulated environments
-- African knowledge systems and their relationship to computation and intelligence
-
----
-
-### GitHub Activity
+## GitHub Activity
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=omoshola-o&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
-
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omoshola-o&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-### Connect
+## Contact
 
 [![Website](https://img.shields.io/badge/omoshola.me-000000?style=flat-square&logo=astro&logoColor=white)](https://omoshola.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omosholaowolabi)
