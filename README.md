@@ -59,6 +59,27 @@ Published research: 100+ citations across ethical AI in financial decisioning, c
 - 🧪 **Journal Peer Review** — Journal of Data Analysis and Information Processing (JDAIP), including LLM-powered enterprise intelligence, healthcare big data, and cloud optimization work.
 - 🤝 **Mentorship** — SciPy Conference 2025 Mentorship Program and Nova Talent Elite Mentorship Program, supporting emerging and senior professionals in ethical AI, financial AI, and supply chain analytics.
 
+### Policy Engagement & Government Initiatives
+
+- 🏛️ **Federal AI Policy Contributor | White House Office of Science and Technology Policy (OSTP), 2025**  
+  [Federal Register Notice (90 FR 46422)](https://www.federalregister.gov/documents/2025/09/26/2025-18737/notice-of-request-for-information-regulatory-reform-on-artificial-intelligence) • [Docket OSTP-TECH-2025-0067](https://www.regulations.gov/docket/OSTP-TECH-2025-0067)  
+  Submitted substantive technical commentary to OSTP Request for Information on AI regulatory reform (Docket ID: OSTP-TECH-2025-0067), identifying specific regulatory barriers in Federal Reserve guidance that hinder deployment of explainable AI systems in financial services.  
+  **Key Contributions:**  
+  Identified Federal Reserve SR 11-7 documentation requirements designed for single-algorithm models that prevent deployment of superior ensemble AI methods despite mathematical explainability.  
+  Identified Federal Reserve SR 23-4 third-party relationship guidance creating barriers to integrating Federal Reserve FRED API and other government data sources.  
+  Proposed specific administrative actions, including supplemental supervisory letters recognizing SHAP/LIME explainability, clarification excluding federal data APIs from vendor management requirements, and interagency coordination.  
+  Quantified economic impact: 10-15% credit loss reduction across the $18.04 trillion household debt market through enhanced AI risk assessment.
+
+- 🌐 **Federal AI Export Strategy Contributor | U.S. Department of Commerce, American AI Exports Program, 2025**  
+  [Federal Register Notice (90 FR 48726)](https://www.federalregister.gov/documents/2025/10/28/2025-19674/american-ai-exports-program) • [Docket ITA-2025-0070](https://www.regulations.gov/docket/ITA-2025-0070)  
+  Submitted substantive technical commentary to the Department of Commerce Request for Information on the American AI Exports Program (90 FR 48726), providing guidance on strengthening U.S. competitiveness in exporting explainable, regulatory-compliant AI systems for financial services and supply chain resilience.  
+  **Key Contributions:**  
+  Identified the absence of a regulatory-compliance layer in the U.S. AI tech stack and recommended embedding Basel III/IV, GDPR-aligned privacy, and SHAP/LIME explainability to strengthen global trust in American AI exports.  
+  Demonstrated how opaque foreign AI systems pose national-security and financial-stability risks, and proposed U.S. alternatives built on transparency, interpretability, and secure data governance.  
+  Proposed export-ready AI frameworks integrating economic intelligence, risk-scoring engines, and explainable decision systems, highlighting CRCreditum as a reference architecture for compliant financial AI exports.  
+  Recommended harmonization with IEEE international AI standards to ensure American technical approaches become embedded in global AI regulation and adoption.  
+  Outlined strategies to strengthen allied nations' financial and supply-chain infrastructures while reducing dependency on non-aligned AI technologies.
+
 ---
 
 ### What I'm Doing
