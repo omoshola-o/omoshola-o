@@ -54,6 +54,7 @@ Published research: 100+ citations across ethical AI in financial decisioning, c
 
 ### Leadership in AI Governance & Ethics
 
+- 🏅 **IEEE Senior Member, 2025** — Elevated in recognition of significant contributions to the profession; eligible for executive volunteer positions and review panel service. Active memberships: IEEE Computational Intelligence Society, IEEE Consumer Technology Society, IEEE Technology and Engineering Management Society, IEEE Young Professionals.
 - 🎯 **Ethics and Conference Reviewing** — NeurIPS 2025 (Datasets & Benchmarks), DeepLearningIndaba 2025, IEEE ICMI 2026 (King Faisal University), IEOM 2025 World Congress (University of Windsor), IEEE IATMSI, and 2025 International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication.
 - ⚖️ **Judging and Evaluation** — TrackShift Innovation Challenge 2025 (Mphasis F1 Foundation x MoneyGram Haas F1 Team), HackNC 2025 (UNC Chapel Hill), ASA Statistics Project Competition (Grades 7-12; 30+ projects), and ASA USCLAP.
 - 🧪 **Journal Peer Review** — Journal of Data Analysis and Information Processing (JDAIP), including LLM-powered enterprise intelligence, healthcare big data, and cloud optimization work.
