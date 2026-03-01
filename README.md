@@ -21,18 +21,12 @@ I work at the intersection of agentic systems, financial AI, and regulatory gove
 - 💳 **FyxCred** — Credit intelligence built on behavioral cashflow data, not bureau scores. Three scores — financial health, income stability, financial resilience — with a consent-first data layer and bias transparency framework.
 - 🕸️ **[Cortex](https://github.com/agentic-revolution/agentic-vision)** — Web cartography for AI agents. Maps entire sites into navigable binary graphs in seconds. Ships with WQL (a query language for websites), LangChain/CrewAI/AutoGen/MCP integrations.
 - 🧠 **[AgenticMemory](https://github.com/agentralabs/agentic-memory)** — Persistent memory for AI agents. A binary graph format that stores facts, decisions, corrections, and reasoning chains with semantic edge types.
-
-### Agentra Sisters
-
-| Sister | Artifact | What it does |
-| --- | --- | --- |
-| [**AgenticMemory**](https://github.com/agentralabs/agentic-memory) | `.amem` | Persistent cognitive graph memory — facts, decisions, corrections, reasoning chains |
-| [**AgenticVision**](https://github.com/agentralabs/agentic-vision) | `.avis` | Persistent visual memory — embeddings, similarity search, and visual diff |
-| [**AgenticCodebase**](https://github.com/agentralabs/agentic-codebase) | `.acb` | Semantic code intelligence — concept graphs, impact analysis, coupling detection |
-| [**AgenticIdentity**](https://github.com/agentralabs/agentic-identity) | `.aid` | Cryptographic agent identity — signed receipts, trust delegation, and authority lineage |
-| [**AgenticTime**](https://github.com/agentralabs/agentic-time) | `.atime` | Temporal reasoning — schedules, deadlines, decay, sequence analysis |
-| [**AgenticContract**](https://github.com/agentralabs/agentic-contract) | `.acon` | Policy engine — governance rules, approvals, obligations, and violations |
-| [**AgenticComm**](https://github.com/agentralabs/agentic-comm) | `.acomm` | Communication runtime — channels, pub/sub routing, messaging, acknowledgments |
+- 👁️ **[AgenticVision](https://github.com/agentralabs/agentic-vision)** — Persistent visual memory for AI agents with embeddings, similarity search, and visual diff.
+- 🧩 **[AgenticCodebase](https://github.com/agentralabs/agentic-codebase)** — Semantic code intelligence for concept mapping, grounding, and impact analysis.
+- 🪪 **[AgenticIdentity](https://github.com/agentralabs/agentic-identity)** — Cryptographic identity, trust delegation, and signed action receipts for agents.
+- ⏱️ **[AgenticTime](https://github.com/agentralabs/agentic-time)** — Temporal reasoning for schedules, deadlines, decay models, and sequence-aware context.
+- 📜 **[AgenticContract](https://github.com/agentralabs/agentic-contract)** — Policy contracts and governance controls for obligations, approvals, and violations.
+- 📡 **[AgenticComm](https://github.com/agentralabs/agentic-comm)** — Structured communication layer for channels, pub/sub routing, and agent coordination.
 
 ### Research & Explainable AI
 
