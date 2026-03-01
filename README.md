@@ -34,6 +34,13 @@ I work at the intersection of agentic systems, financial AI, and regulatory gove
 - 🌐 **[Network Analysis — Supply Chain](https://github.com/omoshola-o/network_analysis_supply_chain)** — Systemic risk assessment in supply chains
 - 🏦 **[Credit Risk Creditum](https://github.com/omoshola-o/credit-risk-creditum)** — Credit risk modeling and analysis
 - 📊 **[RiskX](https://github.com/omoshola-o/riskx)** — Risk analytics engine
+- 📄 **[AgenticMemory Paper](https://github.com/agentralabs/agentic-memory/tree/main/paper)** — Research and publication assets for AgenticMemory
+- 📄 **[AgenticVision Paper](https://github.com/agentralabs/agentic-vision/tree/main/paper)** — Research and publication assets for AgenticVision
+- 📄 **[AgenticCodebase Paper](https://github.com/agentralabs/agentic-codebase/tree/main/paper)** — Research and publication assets for AgenticCodebase
+- 📄 **[AgenticIdentity Paper](https://github.com/agentralabs/agentic-identity/tree/main/paper)** — Research and publication assets for AgenticIdentity
+- 📄 **[AgenticTime Paper](https://github.com/agentralabs/agentic-time/tree/main/paper)** — Research and publication assets for AgenticTime
+- 📄 **[AgenticContract Paper](https://github.com/agentralabs/agentic-contract/tree/main/paper)** — Research and publication assets for AgenticContract
+- 📄 **[AgenticComm Paper](https://github.com/agentralabs/agentic-comm/tree/main/paper)** — Research and publication assets for AgenticComm
 - 📄 **IEEE Academic Reviewer** — Peer reviewer for ICAD 2025
 - 📐 **IEEE Standards Development** — AI ethics, cybersecurity, financial LLM requirements, supply chain security
 
