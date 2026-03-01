@@ -52,6 +52,13 @@ Published research: 100+ citations across ethical AI in financial decisioning, c
 - 📄 **IEEE Academic Reviewer** — Peer reviewer for ICAD 2025
 - 📐 **IEEE Standards Development** — AI ethics, cybersecurity, financial LLM requirements, supply chain security
 
+### Leadership in AI Governance & Ethics
+
+- 🎯 **Ethics and Conference Reviewing** — NeurIPS 2025 (Datasets & Benchmarks), DeepLearningIndaba 2025, IEEE ICMI 2026 (King Faisal University), IEOM 2025 World Congress (University of Windsor), IEEE IATMSI, and 2025 International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication.
+- ⚖️ **Judging and Evaluation** — TrackShift Innovation Challenge 2025 (Mphasis F1 Foundation x MoneyGram Haas F1 Team), HackNC 2025 (UNC Chapel Hill), ASA Statistics Project Competition (Grades 7-12; 30+ projects), and ASA USCLAP.
+- 🧪 **Journal Peer Review** — Journal of Data Analysis and Information Processing (JDAIP), including LLM-powered enterprise intelligence, healthcare big data, and cloud optimization work.
+- 🤝 **Mentorship** — SciPy Conference 2025 Mentorship Program and Nova Talent Elite Mentorship Program, supporting emerging and senior professionals in ethical AI, financial AI, and supply chain analytics.
+
 ---
 
 ### What I'm Doing
