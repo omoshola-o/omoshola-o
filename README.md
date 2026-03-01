@@ -21,6 +21,10 @@ Published research: 100+ citations across ethical AI in financial decisioning, c
 
 - 🦀 **Nexus** — Supply chain intelligence platform in Rust. Treats demand, lead times, and supplier reliability as probability distributions. Monte Carlo simulation, temporal graph kernel, agentic recommendations a procurement team can audit.
 - 💳 **FyxCred** — Credit intelligence built on behavioral cashflow data, not bureau scores. Three scores — financial health, income stability, financial resilience — with a consent-first data layer and bias transparency framework.
+- 🧱 **[ZEX](https://github.com/zexrail/workspace-main)** — Multi-product workspace and execution layer coordinating core platform workflows across the ZEX portfolio.
+- ✅ **[Verity](https://github.com/zexrail/verity-main)** — Verity backend implementation for truth-state validation and system-of-record outcomes.
+- 🚆 **[ZEXRail](https://github.com/zexrail/zexrail-main)** — ZexRail backend implementation for rail operations and domain workflow orchestration.
+- 💸 **[ZEXPay](https://github.com/zexrail/zexpay-main)** — ZexPay backend product workflow, integrated to create Verity proposals and consume Verity outcomes.
 - 🧠 **[AgenticMemory](https://github.com/agentralabs/agentic-memory)** — Persistent memory for AI agents. A binary graph format that stores facts, decisions, corrections, and reasoning chains with semantic edge types.
 - 👁️ **[AgenticVision](https://github.com/agentralabs/agentic-vision)** — Persistent visual memory for AI agents with embeddings, similarity search, and visual diff.
 - 🧩 **[AgenticCodebase](https://github.com/agentralabs/agentic-codebase)** — Semantic code intelligence for concept mapping, grounding, and impact analysis.
