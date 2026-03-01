@@ -17,6 +17,15 @@ Published research: 100+ citations across ethical AI in financial decisioning, c
 
 ---
 
+### High-Level System Design
+
+- 🏗️ I design complex AI systems as composed layers: data contracts, model services, reasoning engines, policy controls, and observable execution paths.
+- 🔁 I prioritize architecture-level guarantees: traceability, determinism where required, graceful degradation, and explicit failure boundaries.
+- 🧭 I treat governance as a system primitive, not an afterthought: explainability, audit logs, access control, and policy enforcement are built into core workflows.
+- ⚙️ I enjoy hard systems problems at scale: multi-agent orchestration, graph-native memory, temporal reasoning, and reliability under real-world constraints.
+
+---
+
 ### Current Projects
 
 - 🦀 **Nexus** — Supply chain intelligence platform in Rust. Treats demand, lead times, and supplier reliability as probability distributions. Monte Carlo simulation, temporal graph kernel, agentic recommendations a procurement team can audit.
