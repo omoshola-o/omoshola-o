@@ -69,20 +69,20 @@ Published research: 100+ citations across ethical AI in financial decisioning, c
 
 ### What I'm Doing
 
-🦀 Building Nexus — a full supply chain OS in Rust with probabilistic planning and agentic recommendations  
-💳 Speccing and starting FyxCred — cashflow-based credit intelligence for the credit invisible  
-🧠 Building Agentra sister systems — memory, vision, codebase, identity, time, contract, and comm (MCP-native, artifact-portable infrastructure)  
-📝 Reviewing AI and cybersecurity research for IEEE
+- 🦀 **Nexus** — Shipping a supply chain OS in Rust with probabilistic planning, simulation-first decision support, and auditable agent recommendations.
+- 💳 **FyxCred** — Building cashflow-native credit intelligence for credit-invisible populations with transparent, governance-ready scoring.
+- 🧠 **Agentra Sisters** — Advancing MCP-native, artifact-portable infrastructure across memory, vision, codebase, identity, time, contract, and communication.
+- 📝 **Research Service** — Reviewing AI and cybersecurity research through IEEE and related scholarly programs.
 
 ---
 
 ### What I'm Thinking About
 
-- What it actually means for an AI agent to be trustworthy over time — not just at launch
-- How to operationalize explainability so adverse-action reasons can satisfy ECOA/FCRA requirements
-- How credit scoring can work for people the formal system has historically excluded
-- The memory and reasoning infrastructure agents need before they can operate in regulated environments
-- African knowledge systems and their relationship to computation and intelligence
+- How to engineer **trustworthy agent systems over time**, not just at launch.
+- How to operationalize explainability so adverse-action reasons satisfy **ECOA/FCRA** requirements.
+- How to build credit models that expand access for people historically excluded by formal scoring systems.
+- What memory, identity, and reasoning primitives are required before agents can safely operate in regulated domains.
+- How African knowledge systems can inform modern computation and AI system design.
 
 ---
 
@@ -93,6 +93,15 @@ Published research: 100+ citations across ethical AI in financial decisioning, c
 </p>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omoshola-o&hide_border=true" alt="GitHub Streak" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omoshola-o&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+### Commit Map
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omoshola-o&bg_color=ffffff&color=111111&line=0a66c2&point=111111&area=true&hide_border=true" alt="GitHub Commit Activity Graph" />
 </p>
 
 ---
