@@ -35,13 +35,16 @@ Published research: 100+ citations across ethical AI in financial decisioning, c
 - 🌐 **[Network Analysis — Supply Chain](https://github.com/omoshola-o/network_analysis_supply_chain)** — Systemic risk assessment in supply chains
 - 🏦 **[Credit Risk Creditum](https://github.com/omoshola-o/credit-risk-creditum)** — Credit risk modeling and analysis
 - 📊 **[RiskX](https://github.com/omoshola-o/riskx)** — Risk analytics engine
-- 📄 **[AgenticMemory Paper](https://github.com/agentralabs/agentic-memory/tree/main/paper)** — Research and publication assets for AgenticMemory
-- 📄 **[AgenticVision Paper](https://github.com/agentralabs/agentic-vision/tree/main/paper)** — Research and publication assets for AgenticVision
-- 📄 **[AgenticCodebase Paper](https://github.com/agentralabs/agentic-codebase/tree/main/paper)** — Research and publication assets for AgenticCodebase
-- 📄 **[AgenticIdentity Paper](https://github.com/agentralabs/agentic-identity/tree/main/paper)** — Research and publication assets for AgenticIdentity
-- 📄 **[AgenticTime Paper](https://github.com/agentralabs/agentic-time/tree/main/paper)** — Research and publication assets for AgenticTime
-- 📄 **[AgenticContract Paper](https://github.com/agentralabs/agentic-contract/tree/main/paper)** — Research and publication assets for AgenticContract
-- 📄 **[AgenticComm Paper](https://github.com/agentralabs/agentic-comm/tree/main/paper)** — Research and publication assets for AgenticComm
+- 📄 **[AgenticMemory Paper I](https://github.com/agentralabs/agentic-memory/blob/main/paper/paper-i-format/agenticmemory-paper.pdf)** — Binary format and memory substrate design
+- 📄 **[AgenticMemory Paper II](https://github.com/agentralabs/agentic-memory/blob/main/paper/paper-ii-query-expansion/agenticmemory-query-expansion.pdf)** — Query expansion and retrieval strategy
+- 📄 **[AgenticMemory Paper III](https://github.com/agentralabs/agentic-memory/blob/main/paper/paper-iii-mcp-server/agentic-memory-mcp-paper.pdf)** — MCP server architecture and tooling
+- 📄 **[AgenticVision Paper I](https://github.com/agentralabs/agentic-vision/blob/main/paper/paper-i-cortex/cortex-paper.pdf)** — Visual/web graph representation and reasoning
+- 📄 **[AgenticVision Paper II](https://github.com/agentralabs/agentic-vision/blob/main/paper/paper-ii-agentic-vision-mcp/agentic-vision-mcp-paper.pdf)** — Vision MCP server design
+- 📄 **[AgenticCodebase Paper](https://github.com/agentralabs/agentic-codebase/blob/main/paper/paper-i-semantic-compiler/agenticcodebase-paper.pdf)** — Semantic compiler and code intelligence architecture
+- 📄 **[AgenticIdentity Paper](https://github.com/agentralabs/agentic-identity/blob/main/paper/paper-i-trust-anchor/agenticidentity-paper.pdf)** — Trust anchors, identity proofs, and receipt model
+- 📄 **[AgenticTime Paper](https://github.com/agentralabs/agentic-time/blob/main/paper/paper-i-temporal-format/agentictime-paper.pdf)** — Temporal format and reasoning model
+- 📄 **[AgenticContract Paper](https://github.com/agentralabs/agentic-contract/blob/main/paper/paper-i-policy-engine/agenticcontract-paper.pdf)** — Policy engine and governance constraints
+- 📄 **[AgenticComm Paper](https://github.com/agentralabs/agentic-comm/blob/main/paper/paper-i-agentic-communication/paper.pdf)** — Agent communication runtime and protocol design
 - 📄 **IEEE Academic Reviewer** — Peer reviewer for ICAD 2025
 - 📐 **IEEE Standards Development** — AI ethics, cybersecurity, financial LLM requirements, supply chain security
 
