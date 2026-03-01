@@ -63,7 +63,7 @@ Published research: 100+ citations across ethical AI in financial decisioning, c
 ### Policy Engagement & Government Initiatives
 
 - 🏛️ **Federal AI Policy Contributor | White House Office of Science and Technology Policy (OSTP), 2025**  
-  [Federal Register Notice (90 FR 46422)](https://www.federalregister.gov/documents/2025/09/26/2025-18737/notice-of-request-for-information-regulatory-reform-on-artificial-intelligence) • [Docket OSTP-TECH-2025-0067](https://www.regulations.gov/docket/OSTP-TECH-2025-0067)  
+  [Federal Register Notice (90 FR 46422)](https://www.federalregister.gov/documents/2025/09/26/2025-18737/notice-of-request-for-information-regulatory-reform-on-artificial-intelligence) • [Docket OSTP-TECH-2025-0067](https://www.regulations.gov/docket/OSTP-TECH-2025-0067) • [Submission](https://www.regulations.gov/document/ITA-2025-0070-0001)  
   Submitted substantive technical commentary to OSTP Request for Information on AI regulatory reform (Docket ID: OSTP-TECH-2025-0067), identifying specific regulatory barriers in Federal Reserve guidance that hinder deployment of explainable AI systems in financial services.  
   **Key Contributions:**  
   Identified Federal Reserve SR 11-7 documentation requirements designed for single-algorithm models that prevent deployment of superior ensemble AI methods despite mathematical explainability.  
@@ -72,7 +72,7 @@ Published research: 100+ citations across ethical AI in financial decisioning, c
   Quantified economic impact: 10-15% credit loss reduction across the $18.04 trillion household debt market through enhanced AI risk assessment.
 
 - 🌐 **Federal AI Export Strategy Contributor | U.S. Department of Commerce, American AI Exports Program, 2025**  
-  [Federal Register Notice (90 FR 48726)](https://www.federalregister.gov/documents/2025/10/28/2025-19674/american-ai-exports-program) • [Docket ITA-2025-0070](https://www.regulations.gov/docket/ITA-2025-0070) • [Submission 0001](https://www.regulations.gov/document/ITA-2025-0070-0001) • [Submission 0021](https://www.regulations.gov/document/ITA-2025-0070-0021)  
+  [Federal Register Notice (90 FR 48726)](https://www.federalregister.gov/documents/2025/10/28/2025-19674/american-ai-exports-program) • [Docket ITA-2025-0070](https://www.regulations.gov/docket/ITA-2025-0070) • [Submission](https://www.regulations.gov/document/ITA-2025-0070-0021)  
   Submitted substantive technical commentary to the Department of Commerce Request for Information on the American AI Exports Program (90 FR 48726), providing guidance on strengthening U.S. competitiveness in exporting explainable, regulatory-compliant AI systems for financial services and supply chain resilience.  
   **Key Contributions:**  
   Identified the absence of a regulatory-compliance layer in the U.S. AI tech stack and recommended embedding Basel III/IV, GDPR-aligned privacy, and SHAP/LIME explainability to strengthen global trust in American AI exports.  
