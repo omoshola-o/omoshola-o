@@ -130,9 +130,6 @@ Published research: 100+ citations across ethical AI in financial decisioning, c
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omoshola-o&bg_color=ffffff&color=111111&line=0a66c2&point=111111&area=true&hide_border=true" alt="GitHub Commit Activity Graph" />
 </p>
-<p>
-  <img src="https://ghchart.rshah.org/40c463/omoshola-o" alt="GitHub Contribution Heatmap" />
-</p>
 
 ---
 
