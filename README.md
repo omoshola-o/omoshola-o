@@ -2,7 +2,7 @@
 
 **Building AI agents and the infrastructure they run on.**
 
-I work at the intersection of agentic systems, financial AI, and regulatory governance — where the gap between what AI can do and what institutions can trust is still wide open. I build things that are architecturally precise, auditable, and honest about what they do not know.
+I work at the intersection of agentic systems, financial AI, and regulatory governance — where the gap between what AI can do and what institutions can trust is still wide open. I build AI systems that are architecturally precise, auditable, and honest about uncertainty.
 
 Published research: 100+ citations across ethical AI in financial decisioning, credit risk modeling, supply chain finance, and systemic risk.
 
@@ -32,6 +32,12 @@ Published research: 100+ citations across ethical AI in financial decisioning, c
 - ⏱️ **[AgenticTime](https://github.com/agentralabs/agentic-time)** — Temporal reasoning for schedules, deadlines, decay models, and sequence-aware context.
 - 📜 **[AgenticContract](https://github.com/agentralabs/agentic-contract)** — Policy contracts and governance controls for obligations, approvals, and violations.
 - 📡 **[AgenticComm](https://github.com/agentralabs/agentic-comm)** — Structured communication layer for channels, pub/sub routing, and agent coordination.
+
+### Applied AI Impact (Selected)
+
+- 🏦 **Explainable credit risk intelligence** — Architected an explainable ML credit risk pipeline for 200,000+ applications using ensemble modeling + real-time macroeconomic feature integration, with transparent reasoning outputs for underwriting; reduced default rates by 15% while expanding access to underserved populations.
+- 🔐 **Privacy-preserving synthetic data** — Built a synthetic data generation stack combining Gaussian Copula and GAN-based synthesis for secure AI model development, achieving full anonymization with regulatory alignment while preserving statistical utility for downstream risk prediction.
+- 📦 **Supply chain resilience modeling** — Developed forecasting and risk pipelines using ARIMA, neural time-series models, and ML supplier-risk scoring to detect disruptions early; reduced stockouts by 22% and drove $2M in cost savings via model-informed operations.
 
 ### Research & Explainable AI
 
@@ -70,8 +76,9 @@ Published research: 100+ citations across ethical AI in financial decisioning, c
 ### What I'm Doing
 
 - 🦀 **Nexus** — Shipping a supply chain OS in Rust with probabilistic planning, simulation-first decision support, and auditable agent recommendations.
-- 💳 **FyxCred** — Building cashflow-native credit intelligence for credit-invisible populations with transparent, governance-ready scoring.
-- 🧠 **Agentra Sisters** — Advancing MCP-native, artifact-portable infrastructure across memory, vision, codebase, identity, time, contract, and communication.
+- 💳 **FyxCred** — Building cashflow-native credit intelligence for credit-invisible populations with explainable scoring, policy-aware decisions, and governance-ready outputs.
+- 🧠 **Agentra Sisters** — Advancing MCP-native, artifact-portable infrastructure across graph memory, multimodal vision, semantic code intelligence, identity, time, policy, and communication.
+- 🧪 **Applied AI R&D** — Developing explainability, uncertainty-aware modeling, and privacy-preserving data methods for regulated production systems.
 - 📝 **Research Service** — Reviewing AI and cybersecurity research through IEEE and related scholarly programs.
 
 ---
@@ -79,10 +86,21 @@ Published research: 100+ citations across ethical AI in financial decisioning, c
 ### What I'm Thinking About
 
 - How to engineer **trustworthy agent systems over time**, not just at launch.
-- How to operationalize explainability so adverse-action reasons satisfy **ECOA/FCRA** requirements.
+- How to operationalize SHAP/LIME-style explainability so adverse-action reasons satisfy **ECOA/FCRA** requirements in real workflows.
 - How to build credit models that expand access for people historically excluded by formal scoring systems.
-- What memory, identity, and reasoning primitives are required before agents can safely operate in regulated domains.
+- How to combine uncertainty quantification, calibration, and drift monitoring into continuous model governance.
+- What memory, identity, policy, and reasoning primitives are required before agents can safely operate in regulated domains.
+- How to use privacy-preserving synthetic data to balance data utility, security, and compliance.
 - How African knowledge systems can inform modern computation and AI system design.
+
+---
+
+### Technical Focus
+
+- **Modeling:** explainable ML, ensemble risk models, time-series forecasting (ARIMA + neural), supplier-risk scoring.
+- **AI Safety & Governance:** model transparency, adverse-action traceability, policy-aware decision systems, regulatory-compliant AI deployment.
+- **Data & Privacy:** synthetic data generation (Gaussian Copula + GAN), anonymization, utility-preserving data pipelines.
+- **Agent Infrastructure:** graph-native memory, multimodal retrieval, identity and trust primitives, temporal reasoning, contract-constrained actions.
 
 ---
 
