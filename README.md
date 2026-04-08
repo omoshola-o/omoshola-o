@@ -1,8 +1,10 @@
 # Hi, I'm Omoshola 👋
 
-**Building AI agents and the infrastructure they run on.**
+**Building domain-specific AI models and the agentic infrastructure they run on.**
 
 I work at the intersection of agentic systems, financial AI, and regulatory governance — where the gap between what AI can do and what institutions can trust is still wide open. I build AI systems that are architecturally precise, auditable, and honest about uncertainty.
+
+Right now I'm fine-tuning a family of specialist models — **Solen** (supply chain), **Verac** (finance / settlement), **Axiom** (financial markets) — on top of the open agentic infrastructure that runs them. Generalist models are wide, not deep. A fine-tuned specialist trained to *reason* like a domain expert beats a generalist on the work that actually matters in regulated industries.
 
 Published research: 100+ citations across ethical AI in financial decisioning, credit risk modeling, supply chain finance, and systemic risk.
 
@@ -28,11 +30,15 @@ Published research: 100+ citations across ethical AI in financial decisioning, c
 
 ### Current Projects
 
-- 🦀 **Nexus** — Supply chain intelligence platform in Rust. Treats demand, lead times, and supplier reliability as probability distributions. Monte Carlo simulation, temporal graph kernel, agentic recommendations a procurement team can audit.
+- 🧬 **agentralabs-models** — Domain-specific model training pipeline. Fine-tuning Gemma 4 to think like world-class domain experts, not generalists. Reasoning-first training across six categories that teach *how* experts think, not just what they know. Quality-scored data (4+/5 on reasoning depth, domain accuracy, calibration, practical value) and failure-pattern training on expert mistakes and corrections.
+  - **Solen** — Supply Chain Management *(training)*
+  - **Verac** — Finance / Settlement *(pipeline ready)*
+  - **Axiom** — Financial Markets *(pipeline ready)*
+- 🦀 **Nexus** — Supply chain intelligence platform in Rust. Treats demand, lead times, and supplier reliability as probability distributions. Monte Carlo simulation, temporal graph kernel, agentic recommendations a procurement team can audit. *(Powered by Solen.)*
 - 💳 **FyxCred** — Credit intelligence built on behavioral cashflow data, not bureau scores. Three scores — financial health, income stability, financial resilience — with a consent-first data layer and bias transparency framework.
 - 🧱 **[ZEX](https://github.com/zexrail/workspace-main)** — Multi-product workspace and execution layer coordinating core platform workflows across the ZEX portfolio.
 - ✅ **[Verity](https://github.com/zexrail/verity-main)** — Verity backend implementation for truth-state validation and system-of-record outcomes.
-- 🚆 **[ZEXRail](https://github.com/zexrail/zexrail-main)** — ZexRail backend implementation for rail operations and domain workflow orchestration.
+- 🚆 **[ZEXRail](https://github.com/zexrail/zexrail-main)** — ZexRail backend implementation for rail operations and domain workflow orchestration. *(Powered by Verac.)*
 - 💸 **[ZEXPay](https://github.com/zexrail/zexpay-main)** — ZexPay backend product workflow, integrated to create Verity proposals and consume Verity outcomes.
 - 🧠 **[AgenticMemory](https://github.com/agentralabs/agentic-memory)** — Persistent memory for AI agents. A binary graph format that stores facts, decisions, corrections, and reasoning chains with semantic edge types.
 - 👁️ **[AgenticVision](https://github.com/agentralabs/agentic-vision)** — Persistent visual memory for AI agents with embeddings, similarity search, and visual diff.
@@ -84,6 +90,7 @@ Published research: 100+ citations across ethical AI in financial decisioning, c
 
 ### What I'm Doing
 
+- 🧬 **Specialist model family (Solen / Verac / Axiom)** — Fine-tuning Gemma 4 into reasoning-first domain experts for supply chain, settlement, and financial markets. The thesis: in regulated industries, depth beats breadth, and a model trained to *reason* like a specialist outperforms a generalist on the work that actually matters.
 - 🦀 **Nexus** — Shipping a supply chain OS in Rust with probabilistic planning, simulation-first decision support, and auditable agent recommendations.
 - 💳 **FyxCred** — Building cashflow-native credit intelligence for credit-invisible populations with explainable scoring, policy-aware decisions, and governance-ready outputs.
 - 🧠 **Agentra Sisters** — Advancing MCP-native, artifact-portable infrastructure across graph memory, multimodal vision, semantic code intelligence, identity, time, policy, and communication.
