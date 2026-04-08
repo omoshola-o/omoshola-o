@@ -30,23 +30,48 @@ Published research: 100+ citations across ethical AI in financial decisioning, c
 
 ### Current Projects
 
+Two organizations carry the work: **[Agentra Labs](https://github.com/agentralabs)** (open agentic infrastructure) and **[Agentra Commerce](https://github.com/agentra-commerce)** (XAP, Verity, ZexRail — production agent settlement).
+
+#### Specialist Models
+
 - 🧬 **agentralabs-models** — Domain-specific model training pipeline. Fine-tuning Gemma 4 to think like world-class domain experts, not generalists. Reasoning-first training across six categories that teach *how* experts think, not just what they know. Quality-scored data (4+/5 on reasoning depth, domain accuracy, calibration, practical value) and failure-pattern training on expert mistakes and corrections.
   - **Solen** — Supply Chain Management *(training)*
   - **Verac** — Finance / Settlement *(pipeline ready)*
   - **Axiom** — Financial Markets *(pipeline ready)*
+
+#### Living Systems
+
+- 🐉 **[Hydra](https://github.com/agentralabs/hydra)** — *The AI that remembers you. Forever.* A living digital entity built in Rust. 68 crates. Self-writing genome. Persistent memory. Constitutional governance. Drop a TOML file, Hydra learns. The thesis is that the next AI is not a model you call — it is an entity that grows alongside you, with memory you own and a constitution you can audit.
 - 🦀 **Nexus** — Supply chain intelligence platform in Rust. Treats demand, lead times, and supplier reliability as probability distributions. Monte Carlo simulation, temporal graph kernel, agentic recommendations a procurement team can audit. *(Powered by Solen.)*
-- 💳 **FyxCred** — Credit intelligence built on behavioral cashflow data, not bureau scores. Three scores — financial health, income stability, financial resilience — with a consent-first data layer and bias transparency framework.
-- 🧱 **[ZEX](https://github.com/zexrail/workspace-main)** — Multi-product workspace and execution layer coordinating core platform workflows across the ZEX portfolio.
-- ✅ **[Verity](https://github.com/zexrail/verity-main)** — Verity backend implementation for truth-state validation and system-of-record outcomes.
-- 🚆 **[ZEXRail](https://github.com/zexrail/zexrail-main)** — ZexRail backend implementation for rail operations and domain workflow orchestration. *(Powered by Verac.)*
-- 💸 **[ZEXPay](https://github.com/zexrail/zexpay-main)** — ZexPay backend product workflow, integrated to create Verity proposals and consume Verity outcomes.
-- 🧠 **[AgenticMemory](https://github.com/agentralabs/agentic-memory)** — Persistent memory for AI agents. A binary graph format that stores facts, decisions, corrections, and reasoning chains with semantic edge types.
-- 👁️ **[AgenticVision](https://github.com/agentralabs/agentic-vision)** — Persistent visual memory for AI agents with embeddings, similarity search, and visual diff.
-- 🧩 **[AgenticCodebase](https://github.com/agentralabs/agentic-codebase)** — Semantic code intelligence for concept mapping, grounding, and impact analysis.
-- 🪪 **[AgenticIdentity](https://github.com/agentralabs/agentic-identity)** — Cryptographic identity, trust delegation, and signed action receipts for agents.
-- ⏱️ **[AgenticTime](https://github.com/agentralabs/agentic-time)** — Temporal reasoning for schedules, deadlines, decay models, and sequence-aware context.
-- 📜 **[AgenticContract](https://github.com/agentralabs/agentic-contract)** — Policy contracts and governance controls for obligations, approvals, and violations.
-- 📡 **[AgenticComm](https://github.com/agentralabs/agentic-comm)** — Structured communication layer for channels, pub/sub routing, and agent coordination.
+
+#### Agent Settlement — [Agentra Commerce](https://github.com/agentra-commerce)
+
+- 🧱 **[XAP Protocol](https://github.com/agentra-commerce/xap-protocol)** — eXchange Agent Protocol. The open economic protocol for autonomous agents: identity, negotiation, conditional escrow, execution receipts, and deterministic decision replay.
+- 📦 **[xap-sdk](https://github.com/agentra-commerce/xap-sdk)** — Python SDK for XAP. Agent discovery, negotiation, settlement, Verity receipts, and 8 MCP tools for Claude and Cursor. `pip install xap-sdk`.
+- ✅ **[Verity Engine](https://github.com/agentra-commerce/verity-engine)** — The open-source truth engine for XAP. Deterministic replay, hash chains, RFC 3161 timestamps, and seven trust properties. *(Powered by Verac.)*
+- 🚆 **[ZexRail (agentra-rail)](https://github.com/agentra-commerce/agentra-rail)** — Production XAP infrastructure. Rust microservices, PostgreSQL, Stripe adapter, Verity integration. *(Powered by Verac.)*
+- 🖥️ **[Frontend](https://github.com/agentra-commerce/frontend)** — ZexRail Console, Verity Observatory, and XAP documentation. Next.js, TypeScript, Tailwind.
+
+#### Agent Infrastructure — [Agentra Labs](https://github.com/agentralabs)
+
+The Agentra sisters. Each one is a standalone Rust core + MCP server, named for the cognitive primitive it gives an agent.
+
+- 🧠 **[AgenticMemory](https://github.com/agentralabs/agentic-memory)** — Persistent cognitive graph memory. Facts, decisions, reasoning chains, corrections. 16 query types, sub-millisecond. Rust core + Python SDK + MCP server.
+- 👁️ **[AgenticVision](https://github.com/agentralabs/agentic-vision)** — Persistent visual memory. Capture screenshots, embed with CLIP ViT-B/32, compare, recall.
+- 🧩 **[AgenticCodebase](https://github.com/agentralabs/agentic-codebase)** — Semantic code intelligence. Compile repositories into navigable concept graphs with impact analysis, coupling detection, and prophecy.
+- 🪪 **[AgenticIdentity](https://github.com/agentralabs/agentic-identity)** — Cryptographic agent identity. Ed25519 anchors, signed action receipts, scoped trust delegation. One `.aid` file.
+- ⏱️ **[AgenticTime](https://github.com/agentralabs/agentic-time)** — Temporal reasoning. Deadlines, schedules, sequences, duration estimation (PERT), decay models. One `.atime` file.
+- 📜 **[AgenticContract](https://github.com/agentralabs/agentic-contract)** — Policy engine. Enforceable rules, risk limits, approval gates, obligation tracking, violation detection. One `.acon` file.
+- 📡 **[AgenticComm](https://github.com/agentralabs/agentic-comm)** — Structured agent-to-agent and agent-to-human communication. Channels, pub/sub, routing, presence. One `.acomm` file.
+- 🎯 **[AgenticPlanning](https://github.com/agentralabs/agentic-planning)** — Persistent intention infrastructure. Goals, decisions, commitments, strategic reasoning. `.aplan` file format.
+- 🌐 **[AgenticData](https://github.com/agentralabs/agentic-data)** — Universal data comprehension. Infer schemas, track lineage, detect anomalies, transform any format. 122 MCP tools, 16 parsers.
+- 🔄 **[AgenticWorkflow](https://github.com/agentralabs/agentic-workflow)** — Universal orchestration engine. Workflows, pipelines, state machines, batch processing. 24 inventions, 124 MCP tools, `.awf` format.
+- 🔌 **[AgenticConnect](https://github.com/agentralabs/agentic-connect)** — Universal external interface engine. 123 MCP tools, 18 protocols, Connection Souls, Intelligent Retry, Encrypted Vault.
+- 🧭 **[AgenticVeritas](https://github.com/agentralabs/agentic-veritas)** — Intent compilation and uncertainty detection. Truth verification, ambiguity resolution, causal reasoning.
+- 🧬 **[AgenticCognition](https://github.com/agentralabs/agentic-cognition)** — Longitudinal user modeling. Living models of human consciousness for AI agents.
+- 🌍 **[AgenticReality](https://github.com/agentralabs/agentic-reality)** — Existential grounding. Deployment awareness, resource proprioception, reality physics.
+
+**Platform layer** — [agentic-evolve](https://github.com/agentralabs/agentic-evolve) (pattern-library engine for instant rebuilds), [agentic-aegis](https://github.com/agentralabs/agentic-aegis) (streaming validation + shadow execution), [agentic-forge](https://github.com/agentralabs/agentic-forge) (project-blueprint engine), [agentic-sdk](https://github.com/agentralabs/agentic-sdk) (shared traits and contracts across all sisters), and [agentralabs-tech](https://github.com/agentralabs/agentralabs-tech) (workspace orchestrator).
 
 ### Applied AI Impact (Selected)
 
