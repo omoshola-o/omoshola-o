@@ -49,8 +49,8 @@ Two organizations carry the work: **[Agentra Labs](https://github.com/agentralab
 - 🧱 **[XAP Protocol](https://github.com/agentra-commerce/xap-protocol)** — eXchange Agent Protocol. The open economic protocol for autonomous agents: identity, negotiation, conditional escrow, execution receipts, and deterministic decision replay.
 - 📦 **[xap-sdk](https://github.com/agentra-commerce/xap-sdk)** — Python SDK for XAP. Agent discovery, negotiation, settlement, Verity receipts, and 8 MCP tools for Claude and Cursor. `pip install xap-sdk`.
 - ✅ **[Verity Engine](https://github.com/agentra-commerce/verity-engine)** — The open-source truth engine for XAP. Deterministic replay, hash chains, RFC 3161 timestamps, and seven trust properties. *(Powered by Verac.)*
-- 🚆 **[ZexRail (agentra-rail)](https://github.com/agentra-commerce/agentra-rail)** — Production XAP infrastructure. Rust microservices, PostgreSQL, Stripe adapter, Verity integration. *(Powered by Verac.)*
-- 🖥️ **[Frontend](https://github.com/agentra-commerce/frontend)** — ZexRail Console, Verity Observatory, and XAP documentation. Next.js, TypeScript, Tailwind.
+- 🚆 **[ZexRail](https://zexrail.com)** — Production XAP infrastructure. Rust microservices, PostgreSQL, Stripe Connect integration in progress, Verity integration. The backend is a private repo; the live site is `zexrail.com`. *(Powered by Verac.)*
+- 🔭 **[Verity Observatory](https://verityengine.io)** — Live public observatory for the truth engine. Paste any receipt hash and verify it independently. No account required.
 
 #### Agent Infrastructure — [Agentra Labs](https://github.com/agentralabs)
 
