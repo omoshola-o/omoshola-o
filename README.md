@@ -1,10 +1,14 @@
 # Hi, I'm Omoshola 👋
 
-**Building domain-specific AI models and the agentic infrastructure they run on.**
+**Building the only stack where a domain-specialist AI model can make decisions a regulator can audit.**
 
-I work at the intersection of agentic systems, financial AI, and regulatory governance — where the gap between what AI can do and what institutions can trust is still wide open. I build AI systems that are architecturally precise, auditable, and honest about uncertainty.
+I work on the seam between what AI can do and what institutions can trust. The work is the integration of three layers into one stack:
 
-Right now I'm fine-tuning a family of specialist models — **Solen** (supply chain), **Verac** (finance / settlement), **Axiom** (financial markets) — on top of the open agentic infrastructure that runs them. Generalist models are wide, not deep. A fine-tuned specialist trained to *reason* like a domain expert beats a generalist on the work that actually matters in regulated industries.
+- **Reasoning layer** — domain-specialist models I am fine-tuning on Gemma 4. **Solen** for supply chain, **Verac** for finance and settlement, **Axiom** for financial markets. Specialists trained to reason like a 30-year veteran in their field. Generalist models are wide; these are deep, and the gap widens as the stakes go up.
+- **Substrate layer** — the open infrastructure primitives the models run on. Persistent memory the agent owns. Cryptographic identity. Runtime policy enforcement. Temporal reasoning. Intent verification. Everything an AI needs to be remembered, signed, and held accountable.
+- **Settlement layer** — XAP Protocol and the Verity truth engine. When a decision involves value, every settlement is deterministically replayable by a third party who was not in the room.
+
+A model alone is a smart oracle. The substrate alone is interesting open-source primitives. The settlement layer alone is a payment protocol. **Together they are the only stack where a fine-tuned domain specialist can make decisions you can prove three years later, in a courtroom, without the original engineer present.** That is the work.
 
 Published research: 100+ citations across ethical AI in financial decisioning, credit risk modeling, supply chain finance, and systemic risk.
 
